@@ -1,7 +1,9 @@
 <template>
     <div>
-        
-        <h1>This is Laravel with Vuejs</h1>
+       
+        <mainNavbar></mainNavbar>
+
+        <h1 class="p-5 text-center">Laravel With Vuejs</h1>
         
     </div>
 </template>
@@ -10,3 +12,4 @@ export default {
     name : 'home'
 }
 </script>
+
